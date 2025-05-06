@@ -6,9 +6,9 @@
 *Replace this with your team name*
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. Pratik Gautam (Pratik-Gautam169)
+2. Bishesh Raut(GitHub Username)*
+3. Kashish Babu Tiwari (GitHub Username)*
 
 ### Task Division
 - **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
