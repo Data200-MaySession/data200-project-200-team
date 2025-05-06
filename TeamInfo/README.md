@@ -7,7 +7,7 @@
 
 ### Team Members
 1. Pratik Gautam (Pratik-Gautam169)
-2. Bishesh Raut(GitHub Username)*
+2. Bishesh Raut(bisheshraut)*
 3. Kashish Babu Tiwari (GitHub Username)*
 
 ### Task Division
